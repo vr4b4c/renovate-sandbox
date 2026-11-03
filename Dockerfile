@@ -1,1 +1,1 @@
-FROM ruby:3.4-slim-trixie@sha256:d2110d6b75e98a0afb87b8e8f80a01757dc1cfeb6044c5c2d79d5024eaae8c7a AS base
+FROM ruby:4.0-slim-trixie@sha256:575fcf0c168d396a6fa9fba87ea1e390ceb4904af6c3fe2bbfdf4824224628c3 AS base
